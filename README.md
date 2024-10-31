@@ -7,3 +7,4 @@ Cultural assimilation, the process by which a minority group adopts the dominant
 Language data come from British India Census Report
 
 ## Dijkstra Algorithm and Trade Cost
+Code for calculating trade cost in 1881 and 1931 from each districts to Top 20 cities in the subcontinent is available at TradeCost.ipynb 
