@@ -13,4 +13,4 @@ Heterogeneous analysis further suggests that smaller districts and those with mo
 The language data are sourced from the British India Census Report. Additional details will be provided during the publication process.
 
 ## Dijkstra Algorithm and Trade Cost
-Code for calculating trade cost in 1881 and 1931 from each districts to Top 20 cities in the subcontinent is available at [This File](/Railway-and-Language/TradeCost.ipynb)
+Code for calculating trade cost in 1881 and 1931 from each districts to Top 20 cities in the subcontinent is available at [This File](/Railway-and-Language/Trade_Cost.ipynb)
